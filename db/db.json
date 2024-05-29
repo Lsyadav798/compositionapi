@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Lsyadav4",
+      "email": "lsyadav34@gmail.com",
+      "password": "ls@134",
+      "id": 1
+    },
+    {
+      "name": "Lsyadav1",
+      "email": "lsyadav324@gmail.com",
+      "password": "ls@1234",
+      "id": 2
+    },
+    {
+      "name": "Lsyadav1",
+      "email": "lsyadav324@gmail.com",
+      "password": "ls@1234",
+      "id": 3
+    },
+    {
+      "name": "Lsyadav21",
+      "email": "lsyadav324@gmail.com",
+      "password": "ls@12342",
+      "id": 4
+    },
+    {
+      "name": "balu",
+      "email": "balu@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "password": "123456",
+      "id": 7
+    }
+  ]
+}
